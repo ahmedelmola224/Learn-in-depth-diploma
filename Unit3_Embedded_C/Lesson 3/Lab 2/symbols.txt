@@ -1,0 +1,46 @@
+**************************************
+startup.o
+
+         U _E_bss
+         U _E_data
+         U _E_text
+         U _S_bss
+         U _S_data
+         U _stack_top
+000000b8 W Bus_Fault
+000000b8 T Default_Handler
+000000b8 W H_Fault_Handler
+         U main
+000000b8 W MM_Fault_Handler
+000000b8 W NMI_Handler
+00000000 T Reset_Handler
+000000b8 W Usage_Fault_Handler
+00000000 D vectors
+**************************************
+main.o
+
+00000000 R const_g_Value
+00000004 D g_Value
+00000000 T main
+00000000 D R_ODR
+**************************************
+output.elf
+
+20000008 B _E_bss
+20000008 D _E_data
+0800018c T _E_text
+20000008 B _S_bss
+20000000 D _S_data
+20001008 B _stack_top
+0800017c W Bus_Fault
+08000188 T const_g_Value
+0800017c T Default_Handler
+20000004 D g_Value
+0800017c W H_Fault_Handler
+0800001c T main
+0800017c W MM_Fault_Handler
+0800017c W NMI_Handler
+20000000 D R_ODR
+080000c4 T Reset_Handler
+0800017c W Usage_Fault_Handler
+08000000 T vectors
