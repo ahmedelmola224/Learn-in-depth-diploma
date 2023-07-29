@@ -1,0 +1,9283 @@
+US initDc init
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=52 
+CA_driving.......distance=52.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=53 
+CA_driving.......distance=53.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=51 
+CA_driving.......distance=51.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=54 
+CA_driving.......distance=54.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=46 
+CA_waiting.......distance=46.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=49 
+CA_waiting.......distance=49.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=47 
+CA_waiting.......distance=47.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=50 
+CA_driving.......distance=50.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=45 
+CA_waiting.......distance=45.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
+US_busy......distance=55 
+CA_driving.......distance=55.......speed=30
+CA---->DC setspeed()
+DC_busy...........speed=30
+
+
+US_busy......distance=48 
+CA_waiting.......distance=48.......speed=0
+CA---->DC setspeed()
+DC_busy...........speed=0
+
+
